@@ -1,0 +1,191 @@
+port,banner,cve
+80,"HTTP/1.1 400 Bad Request
+Date: Mon, 25 Aug 2025 14:42:21 GMT
+Content-Length: 68
+Connection: close
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Referrer-Policy: same-origin
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Proxy-Status: Cloudflare-Proxy;error=http_request_error
+CF-RAY: 974bdb0758a49490-LHR
+
+Cloudflare encountered an error processing this request: Bad Request",
+443,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:23 GMT
+Content-Type: text/html
+Content-Length: 253
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+587,,
+2053,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2052,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2096,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2095,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2087,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2082,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2083,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+2086,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:42:32 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+8080,"HTTP/1.1 400 Bad Request
+Date: Mon, 25 Aug 2025 14:43:02 GMT
+Content-Length: 68
+Connection: close
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Referrer-Policy: same-origin
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Proxy-Status: Cloudflare-Proxy;error=http_request_error
+CF-RAY: 974bdc04bd7976c9-LHR
+
+Cloudflare encountered an error processing this request: Bad Request",
+8443,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:43:04 GMT
+Content-Type: text/html
+Content-Length: 253
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
+8880,"HTTP/1.1 400 Bad Request
+Server: cloudflare
+Date: Mon, 25 Aug 2025 14:43:06 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: close
+CF-RAY: -
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>",
